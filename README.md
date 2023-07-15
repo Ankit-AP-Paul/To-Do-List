@@ -33,7 +33,7 @@ This application uses the following dependencies:
 
 - [express](https://expressjs.com/) - For creating the server and routing.
 - [ejs](https://ejs.co/) - For rendering views.
-- [body-parse](https://www.npmjs.com/package/body-parser) - For parsing JSON data in request bodies.
+- [body-parser](https://www.npmjs.com/package/body-parser) - For parsing JSON data in request bodies.
 
 
 ## Contributing
